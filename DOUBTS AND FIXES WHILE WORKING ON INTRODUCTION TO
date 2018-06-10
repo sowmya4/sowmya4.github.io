@@ -1,0 +1,5 @@
+DOUBTS AND FIXES WHILE WORKING ON INTRODUCTION TO DESIGN 
+
+1) 100vw causing horizontal overflow, but only if more than one?
+
+https://stackoverflow.com/questions/23367345/100vw-causing-horizontal-overflow-but-only-if-more-than-one
